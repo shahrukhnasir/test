@@ -1,0 +1,9 @@
+.heartIcon{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+}
+.heartIcon h6{
+   padding-right:10px;
+   font-family: sans-serif;
+}
